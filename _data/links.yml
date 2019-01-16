@@ -1,2 +1,4 @@
 - url: /
-  title: Home, About
+  title: Home
+- url: /about
+  title: About
